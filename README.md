@@ -6,7 +6,7 @@
 
 - 💪 Strong in **SQL** (my superpower for data wrangling!)
 - 📊 **Tableau** (advanced) & **Excel** (advanced) for impactful data visualizations
-- 📈 **Power BI** (intermediate) for business intelligence solutions
+- 📈 **Power BI** for business intelligence solutions
 - 📚 **R** (academic background)
 - 🐍 **Python**: Currently learning & excited to build projects with it
 - ☁️ Interested in **Cloud Technologies**: Exploring Databricks, AWS, and more!
@@ -15,7 +15,7 @@
 
 ## 🚀 What I'm Working On
 
-- Building my first Python data projects—stay tuned!
+- Building Python data projects—stay tuned!
 - Diving deeper into cloud data platforms and modern analytics tools
 
 ---
