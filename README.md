@@ -1,45 +1,70 @@
-# Hi, I'm Ayşe! 👋
-
-🎯 **Data Analyst** passionate about uncovering actionable insights from data.
-
-## 💡 About Me
-
-- 💪 Strong in **SQL** (my superpower for data wrangling!)
-- 📊 **Tableau** (advanced) & **Excel** (advanced) for impactful data visualizations
-- 📈 **Power BI** for business intelligence solutions
-- 📚 **R** (academic background)
-- 🐍 **Python**: Currently learning & excited to build projects with it
-- ☁️ Interested in **Cloud Technologies**: Exploring Databricks, AWS, and more!
+# Hi, I'm Ayşe! 👋  
+🎯 **Senior Data Analyst** passionate about transforming data into business impact.
 
 ---
 
-## 🚀 What I'm Working On
+## 💡 About Me  
 
-- Building Python data projects—stay tuned!
-- Diving deeper into cloud data platforms and modern analytics tools
-
----
-
-## 🌱 Currently Learning
-
-- Python for data analysis and automation
-- Exploring cloud-based data analytics (Databricks, AWS)
-- Machine learning basics
+- 📊 4 years of experience in **data analytics, reporting, and business insights**  
+- 🧮 Strong command of **SQL**, **Tableau**, **Python (Pandas, NumPy, scikit-learn)**, and **Tableau & Power BI**  
+- ☁️ Familiar with **Databricks**, **AWS**, and **modern data stack tools** (dbt, Airflow, Snowflake)  
+- 🧠 Analytical mindset with a focus on **data-driven decision making** and **performance optimization**  
 
 ---
 
-## 📫 Let’s Connect
+## 🚀 Current Focus  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aysemert1/)
+- Building **end-to-end data projects** using Python and SQL  
+- Automating analytics workflows and pipeline monitoring  
+- Developing **executive-level Tableau dashboards**  
+- Expanding expertise in **ML-based forecasting** and **data storytelling**  
 
 ---
 
-## 🎉 Fun Fact
+## 🏆 Key Achievements  
 
-I love turning complex data into simple, beautiful stories—and I’m always looking for new challenges!
+- Automated SQL pipelines, saving 20+ analyst hours weekly  
+- Built Tableau dashboards adopted by multiple business units  
+- Delivered analyses that improved campaign ROI and reduced stockouts  
+- Collaborated cross-functionally with marketing, operations, and product teams  
+
+---
+
+## 🧩 Tech Stack  
+
+| Category | Tools & Technologies |
+|-----------|----------------------|
+| **Languages** | SQL, Python (Pandas, NumPy, scikit-learn), R |
+| **Visualization** | Tableau, Power BI, Excel |
+| **Data Engineering** | Databricks, dbt, Airflow |
+| **Cloud & DB** | AWS, Snowflake, BigQuery |
+| **Version Control** | Git, GitHub |
+
+---
+
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=1ayse&show_icons=true&theme=calm&hide_border=true" alt="Ayşe's GitHub stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1ayse&layout=compact&theme=calm&hide_border=true" alt="Top Languages" height="150"/>
+</p>
+
+---
+
+## 🌍 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aysemert1/)  
+[![Tableau](https://img.shields.io/badge/Tableau-Portfolio-orange?style=flat&logo=tableau)](https://public.tableau.com/app/profile/aysemert)  
+[![Gmail](https://img.shields.io/badge/Email-ayse.mert@example.com-red?style=flat&logo=gmail)](mailto:ayse.mert@example.com)  
+
+---
+
+## 🎨 Fun Fact  
+
+I enjoy blending **data and design** — crafting dashboards that are not just informative but visually engaging.  
 
 ---
 
 <!--
-**1ayse/1ayse** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**1ayse/1ayse** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 -->
