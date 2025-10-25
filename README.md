@@ -54,7 +54,7 @@
 ## 🌍 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aysemert1/)  
-[![Tableau](https://img.shields.io/badge/Tableau-Portfolio-orange?style=flat&logo=tableau)](https://public.tableau.com/app/profile/aysemert)  
+[![Tableau](https://img.shields.io/badge/Tableau-Portfolio-orange?style=flat&logo=tableau)]([https://public.tableau.com/app/profile/aysemert](https://public.tableau.com/app/profile/ayse.mert/vizzes))  
 [![Gmail](https://img.shields.io/badge/Email-ayse.mert.europe@gmail.com-red?style=flat&logo=gmail)](mailto:ayse.mert.europe@gmail.com)  
 
 ---
